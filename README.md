@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</a>
 **practest4/practest4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -76,4 +79,9 @@ I'm curently interested into everything that is around data science models: MLop
   <a href="https://github.com/Arshad9999">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arshad9999&label=Profile%20views&color=0e75b6&style=flat" alt="Arshad9999" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Arshad9999?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Arshad9999?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
