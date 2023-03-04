@@ -37,6 +37,7 @@ I'm a developer with a strong background in **MLops**, **data engineering**, **s
 
 I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements via CICDs, etc.
 
+[![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/kishanrajput23)
 
 ### Technical stack (non-exhaustive, non-ordered)
 
