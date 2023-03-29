@@ -56,7 +56,7 @@ I'm curently interested into everything that is around data science models: MLop
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ni_labview/ni_labview-ar21.svg" style="background-color: white;"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" style="background-color: white;"></code>
+<code style="background-color: white; display: inline-block;"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/azurecontainerregistry/azurecontainerregistry-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" style="background-color: white;"></code>
