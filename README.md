@@ -39,7 +39,7 @@ I'm curently interested into everything that is around data science models: MLop
 
 ### Technical stack (non-exhaustive, non-ordered)
 
-<code style="background-color: white;"><style="background-color: white;" img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" style="background-color: white;"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" style="background-color: white;"></code>
