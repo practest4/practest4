@@ -64,7 +64,7 @@ I'm curently interested into everything that is around data science models: MLop
 </div>
 
 <div style="background-color: white; display: inline-block;">
-  <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+  <img style="background-color: white;" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
   <code><img height="50" src=""></code>
   <code><img height="50" src=""></code>
   <code><img height="50" src=""></code>
