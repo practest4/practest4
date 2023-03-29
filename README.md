@@ -63,7 +63,7 @@ I'm curently interested into everything that is around data science models: MLop
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" style="background-color: white;"></code>
 </div>
 
-<div style="background-color: white; display: inline-block;">
+<div style="background-color: white; padding: 5px; display: inline-block;">
   <style>
     img {
         background-color: white;
