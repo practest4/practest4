@@ -64,24 +64,24 @@ I'm curently interested into everything that is around data science models: MLop
 </div>
 
 <div style="background-color: white; display: inline-block;">
-<code><img height="50" src="https://i.imgur.com/5nXZZWA.png"></code>
-<code><img height="50" src="https://i.imgur.com/0crzGNI.png"></code>
-<code><img height="50" src="https://i.imgur.com/GhZKjYd.png"></code>
-<code><img height="50" src="https://i.imgur.com/JwO4e0M.png"></code>
-<code><img height="50" src="https://i.imgur.com/TlcGjKQ.png"></code>
-<code><img height="50" src="https://i.imgur.com/Rx3qkNj.png"></code>
-<code><img height="50" src="https://i.imgur.com/lvJutS9.png"></code>
-<code><img height="50" src="https://i.imgur.com/5ZCMyM8.png"></code>
-<code><img height="50" src="https://i.imgur.com/kKpJTD3.png"></code>
-<code><img height="50" src="https://i.imgur.com/YtFk7bg.png"></code>
-<code><img height="50" src="https://i.imgur.com/dRnV7FQ.png"></code>
-<code><img height="50" src="https://i.imgur.com/D4J4PDI.png"></code>
-<code><img height="50" src="https://i.imgur.com/j5Mq3Iq.png"></code>
-<code><img height="50" src="https://i.imgur.com/h1aEJwC.png"></code>
-<code><img height="50" src="https://i.imgur.com/FL9MCEm.png"></code>
-<code><img height="50" src="https://i.imgur.com/nlQF7aH.png"></code>
-<code><img height="50" src="https://i.imgur.com/7dSMOLp.png"></code>
-<code><img height="50" src="https://i.imgur.com/fEP1zOv.png"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
+  <code><img height="50" src=""></code>
 </div>
 
 
