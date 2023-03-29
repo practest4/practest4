@@ -39,6 +39,7 @@ I'm curently interested into everything that is around data science models: MLop
 
 ### Technical stack (non-exhaustive, non-ordered)
 
+<div style="background-color: white; display: inline-block;">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" style="background-color: white;"></code>
@@ -60,6 +61,7 @@ I'm curently interested into everything that is around data science models: MLop
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/azurecontainerregistry/azurecontainerregistry-ar21.svg" style="background-color: white;"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" style="background-color: white;"></code>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
