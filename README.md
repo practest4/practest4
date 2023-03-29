@@ -63,6 +63,28 @@ I'm curently interested into everything that is around data science models: MLop
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" style="background-color: white;"></code>
 </div>
 
+<div style="background-color: white; display: inline-block;">
+<code><img height="50" src="https://i.imgur.com/5nXZZWA.png"></code>
+<code><img height="50" src="https://i.imgur.com/0crzGNI.png"></code>
+<code><img height="50" src="https://i.imgur.com/GhZKjYd.png"></code>
+<code><img height="50" src="https://i.imgur.com/JwO4e0M.png"></code>
+<code><img height="50" src="https://i.imgur.com/TlcGjKQ.png"></code>
+<code><img height="50" src="https://i.imgur.com/Rx3qkNj.png"></code>
+<code><img height="50" src="https://i.imgur.com/lvJutS9.png"></code>
+<code><img height="50" src="https://i.imgur.com/5ZCMyM8.png"></code>
+<code><img height="50" src="https://i.imgur.com/kKpJTD3.png"></code>
+<code><img height="50" src="https://i.imgur.com/YtFk7bg.png"></code>
+<code><img height="50" src="https://i.imgur.com/dRnV7FQ.png"></code>
+<code><img height="50" src="https://i.imgur.com/D4J4PDI.png"></code>
+<code><img height="50" src="https://i.imgur.com/j5Mq3Iq.png"></code>
+<code><img height="50" src="https://i.imgur.com/h1aEJwC.png"></code>
+<code><img height="50" src="https://i.imgur.com/FL9MCEm.png"></code>
+<code><img height="50" src="https://i.imgur.com/nlQF7aH.png"></code>
+<code><img height="50" src="https://i.imgur.com/7dSMOLp.png"></code>
+<code><img height="50" src="https://i.imgur.com/fEP1zOv.png"></code>
+</div>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/arshad_siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev" height="30" width="40" /></a>
